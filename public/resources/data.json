@@ -1,0 +1,73 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "title": "Primero",
+      "radius": 5
+    },
+    {
+      "id": 2,
+      "title": "Segundo",
+      "radius": 5
+    },
+    {
+      "id": 3,
+      "title": "Tercero",
+      "radius": 5
+    },
+    {
+      "id": 4,
+      "title": "sad",
+      "radius": 5
+    },
+    {
+      "id": 5,
+      "title": "pepe",
+      "radius": 5
+    },
+    {
+      "id": 6,
+      "title": "sss",
+      "radius": 5
+    },
+    {
+      "id": 7,
+      "title": "aaa",
+      "radius": 5
+    },
+    {
+      "id": 8,
+      "title": "dd",
+      "radius": 5
+    },
+    {
+      "id": 9,
+      "title": "aac",
+      "radius": 5
+    },
+    {
+      "id": 10,
+      "title": "cccc",
+      "radius": 5
+    },
+    {
+      "id": 11,
+      "title": "d",
+      "radius": 5
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 3
+    },
+    {
+      "source": 2,
+      "target": 3
+    }
+  ]
+}
